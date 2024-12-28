@@ -11,7 +11,7 @@ const SearchForm = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        setError(""); // Clear any previous error messages
+        setError(""); 
         setLoading(true);
 
         try {
