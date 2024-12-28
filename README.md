@@ -4,7 +4,14 @@ The Holiday managemant web app will allowa you to search for holidays details in
 
 **Project Setup Instructions**
 1. Clone the Repository
+   * Click on the "Clone" or "Code" button.
+   * Copy the repository URL (HTTPS or SSH).
    * Download the entire project folder to your local machine.
+   * Open a Terminal or Command Prompt
+   * Navigate to the folder where you want to save the project locally.
+   * Use the following command to clone the repository:
+              `git clone <repository-url>`
+   *The repository will be downloaded to your local machine in a new folder with the same name as the repository.
 
 3. Backend Setup
    * Open the backend folder in a separate IDE or text editor (e.g., VS Code).
