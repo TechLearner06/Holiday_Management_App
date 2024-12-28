@@ -1,0 +1,12 @@
+# Frontend
+node_modules/
+build/
+
+Backend/__pycache__/
+Backend/db.sqlite3
+
+Backend/vir_env/
+# General
+*.env
+.DS_Store
+*.log
